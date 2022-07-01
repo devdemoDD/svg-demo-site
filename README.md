@@ -1,1 +1,1 @@
-# Hello SVG-DEMO
+# SVG Examples
